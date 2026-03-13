@@ -28,3 +28,11 @@ body {
 .alongar {
     padding-right: 300px;
 }
+
+.alongarCurto {
+    padding-right: 100px;
+}
+
+.esticar{
+    padding-bottom: 300px;
+}
