@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #a96aec;
+}
+
+.fundo {
+    width: 660px;
+    margin: 0 auto;
+    background-color: rgb(124, 28, 148);
+}
+
+.flex {
+    display: flex;
+}
+
+.amarelo {
+    background-color: rgb(36, 134, 199);
+    padding: 75px;
+    margin: 10px;
+}
+
+.alongar {
+    padding-right: 300px;
+}
