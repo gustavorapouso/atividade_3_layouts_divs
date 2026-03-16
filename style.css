@@ -12,6 +12,7 @@ body {
 .fundo {
     width: 660px;
     margin: 0 auto;
+    padding-bottom: 1px;
     padding-top: 1px;
     background-color: rgb(124, 28, 148);
 }
@@ -46,11 +47,9 @@ body {
     padding-bottom: 250px;
 }
 
-
 .bloco5Ex6{
     padding-bottom: 82px;
 }
-
 
 .invisivel{
     background-color: rgb(124, 28, 148);
@@ -58,11 +57,14 @@ body {
     margin: 19px;
 }
 
-
 .bloco1Ex8{
     padding: 80px;
 }
 
 .esticarGrande{
     padding-bottom: 450px;
+}
+
+.bloco6Ex15{
+    padding-bottom: 262px;
 }
